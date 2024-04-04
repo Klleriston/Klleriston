@@ -3,7 +3,7 @@
   "Author": {
       "Name": "Klleriston",
       "Age": "21",
-      "Role": "Software Developer Student"
+      "Role": "Software Developer"
     }
   },
   "AppSettings": {
