@@ -54,6 +54,3 @@ Microsoft **AZ-900** | **AI-900**
 
 *"In this world, I'm a developer. In another, who knows?"*
 
----
-
-💼 Open to opportunities and collaborations
