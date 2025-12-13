@@ -36,6 +36,8 @@ When I'm not coding, you'll find me watching competitive League of Legends, bing
 🏗️ Exploring microservices architecture patterns and message queuing systems
 
 ## Certifications
+AWS **AWS Cloud Practitioner**
+
 Oracle **OCI Foundations**
 
 Microsoft **AZ-900** | **AI-900**
