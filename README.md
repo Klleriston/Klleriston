@@ -44,11 +44,6 @@ Microsoft **AZ-900** | **AI-900**
 
 ## Languages
 🇧🇷 **Portuguese** (Native) | 🇺🇸 **English**
-
-## Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Klleriston&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Klleriston&layout=compact&theme=tokyonight)
-
 ---
 
 ### When I'm AFK
